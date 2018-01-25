@@ -1,5 +1,7 @@
 # SearchProject
 
+This project is a github search project that allows you to search for users and the work they have done.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
 
 ## Development server
