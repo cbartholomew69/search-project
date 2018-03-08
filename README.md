@@ -1,27 +1,48 @@
-# [SearchProject]
-(https://secure-escarpment-34158.herokuapp.com/)
 
-Github Search App is an application that allows users to search Github profiles and projects using the Github API. Users have the ability to view profiles to see what projects people have worked on, how many followers are following and how many repos they have.
+# Github User SearchProject
 
-___
+This project is a github search project that allows you to search for users and the work they have done.
 
-# Developed By:octocat:
-[Christy Bartholomew]
-(https://github.com/cbartholomew69)
+## Access
+
+https://secure-escarpment-34158.herokuapp.com/
 
 ___
 
-# Technologies Used In This Project:
 
-* Angular CLI
+## Screenshot & Wireframe
 
-* Node.js and npm
+![screen shot 2018-01-23 at 12 02 58 am](https://user-images.githubusercontent.com/26726476/35769550-d5863a06-08da-11e8-8c4f-816566c7d3a6.png)
 
-* Bootstrap 
+![screen shot 2018-01-23 at 6 03 41 pm](https://user-images.githubusercontent.com/26726476/35769552-db1471b8-08da-11e8-8713-607a31fc0bf5.png)
 
-* HTML 
 
-* CSS
+___
 
-## Wire Frames and Screenshots
+
+## Technologies Used
+
+* Angular
+
+* Node.js
+
+* NPM
+
+* Bootstrap
+
+* Github API
+
+___
+
+
+## Deliverables
+
+User can search other users
+
+User can view profile & repos
+
+User can see how many repos, gists, and followers
+
+
+
 
